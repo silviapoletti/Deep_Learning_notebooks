@@ -1,6 +1,6 @@
 # Deep Learning notebooks
 
-This repository contains three Python notebooks that serve as guidelines for the implementation in TensorFlow - Keras of the following deep learning architectures:
+This repository contains three Python notebooks serving as guidelines for the implementation in TensorFlow - Keras of the following deep learning architectures:
 - Recurrent Neural Networks
 - Autoencoders
 - Variational Autoencoders
