@@ -7,7 +7,7 @@ This repository contains three Python notebooks serving as guidelines for the im
   - Dropout Layer and other tecniques to reduce overfitting
 
 <a target="_blank" href="https://colab.research.google.com/github/silviapoletti/Deep_Learning_notebooks/blob/bb07ef04ec38c805b0c79cef6d594db4dba66e16/recurrent_neural_networks.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="RNN: Open In Colab"/>
 </a>
 
 - **Autoencoders (AE)** 
@@ -17,7 +17,7 @@ This repository contains three Python notebooks serving as guidelines for the im
   - AE for sequences (sentiment analysis task)
 
 <a target="_blank" href="https://colab.research.google.com/github/silviapoletti/Deep_Learning_notebooks/blob/bb07ef04ec38c805b0c79cef6d594db4dba66e16/autoencoders.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="AE: Open In Colab"/>
 </a>
 
 - **Variational Autoencoders (VAE) on hand-written digits** 
@@ -26,7 +26,7 @@ This repository contains three Python notebooks serving as guidelines for the im
   - Visualization of the VAE's latent space
 
 <a target="_blank" href="https://colab.research.google.com/github/silviapoletti/Deep_Learning_notebooks/blob/bb07ef04ec38c805b0c79cef6d594db4dba66e16/variational_autoencoders.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="VAE: Open In Colab"/>
 </a>
 
 The notebooks also contain very useful insights about the implementation and the mentioned architectures.
